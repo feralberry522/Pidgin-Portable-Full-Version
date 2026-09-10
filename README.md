@@ -1,0 +1,1 @@
+# Pidgin-Portable-Full-Version
