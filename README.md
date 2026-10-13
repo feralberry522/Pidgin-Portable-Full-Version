@@ -236,4 +236,4 @@ This repository serves as the official landing page for Pidgin Portable. The sof
 **Get the most recent version of Pidgin Portable today!**
 
 ---
-**Last updated:** 2026-10-12 19:38:44 UTC
+**Last updated:** 2026-10-13 01:41:42 UTC
